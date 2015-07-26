@@ -4,7 +4,7 @@
 
 ## This function implements two functions so that cacheSolve() can use it
 ## can use it to invert a matrix and to get the cached result of a matrix
-## Assumption: 
+## Assumption : 
 ## The matrix is always invertible
 
 makeCacheMatrix <- function(x = matrix()) {
